@@ -22,6 +22,7 @@
 
 ##### 入侵与破解
 - **Web**
+    - [入门](?file=入侵与破解/Web/入门 "入门")
     - [文件包含](?file=入侵与破解/Web/文件包含 "文件包含")
     - [Blind XXE](?file=入侵与破解/Web/Blind XXE "Blind XXE")
     - [Fastjson 漏洞总结](?file=入侵与破解/Web/Fastjson 漏洞总结 "Fastjson 漏洞总结")
@@ -31,14 +32,21 @@
     - [逆向工具](?file=入侵与破解/Reverse/逆向工具 "逆向工具")
     - [逆向常见加密算法](?file=入侵与破解/Reverse/逆向常见加密算法 "逆向常见加密算法")
     - [基础APK逆向](?file=入侵与破解/Reverse/基础APK逆向 "基础APK逆向")
+    - [Pyc逆向](??file=入侵与破解/Reverse/Pyc逆向 "Pyc逆向")
     - [RC4 解密模板](?file=入侵与破解/Reverse/RC4 解密模板 "RC4 解密模板")
     - [Python字节码](?file=入侵与破解/Reverse/Python字节码 "Python字节码")
     - [xxtea 解密模板](?file=入侵与破解/Reverse/xxtea 解密模板 "xxtea 解密模板")
 - **Pwn**
+    - [入门](?file=入侵与破解/Pwn/入门 "入门")
     - [Linux x86架构系统调用表](?file=入侵与破解/Pwn/Linux x86架构系统调用表 "Linux x86架构系统调用表")
     - [docker pwn机配置](?file=入侵与破解/Pwn/docker pwn机配置 "docker pwn机配置")
 - **Crypto**
     - [RSA](?file=入侵与破解/Crypto/RSA "RSA")
+    - [基础](?file=入侵与破解/Crypto/基础 "基础")
 - **Misc**
+    - [隐写分析](?file=入侵与破解/Misc/隐写分析 "隐写分析")
+    - [二维码 流量分析](?file=入侵与破解/Misc/二维码 流量分析 "二维码 流量分析")
+    - [编码](?file=入侵与破解/Misc/编码 "编码")
+    - [压缩包](>file=入侵与破解/Misc/压缩包 "压缩包")
 - **Python**
     - [开发环境](?file=入侵与破解/Python/开发环境 "开发环境")
